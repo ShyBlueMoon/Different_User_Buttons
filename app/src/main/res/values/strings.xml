@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing User Buttons</string>
+    <string name="select_user_string">Select user:</string>
+    <string name="lewis_user_string">Lewis</string>
+    <string name="john_user_string">John</string>
+    <string name="mary_user_string">Mary</string>
+    <string name="welcome_user_text_string">Welcome back,</string>
+    <string name="user_name_string">Name goes here</string>
+</resources>
